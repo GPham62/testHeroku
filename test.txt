@@ -2,9 +2,14 @@ hehllo abc
 
 --add more code version 2
 
+<<<<<<< HEAD
+--addd more code version 3d
+wegwegwegewgew
+=======
 --addd more code version 3
 
 <<<<<<< HEAD
 =======
 update 22/4-teacher
 >>>>>>> 89d0ce93492e2343c4395ac10594736d994cde4e
+>>>>>>> 4399cad6bd949531d51c314d1247d2b58a4c54b8
